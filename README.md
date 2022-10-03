@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajaykanse65
 - 👀 I’m interested in App Development
-- 🌱 I’m currently learning BE
+- 🌱 I’m currently learning BE in Information Technology
 
 
 <!---
